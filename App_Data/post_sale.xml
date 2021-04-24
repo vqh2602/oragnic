@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" ?>
+<ArrayOfPost xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Post>
+		<BlogID>001</BlogID>
+		<UrlImage>Image/data_image/sale/combo1.jpg</UrlImage>
+		<Name>Combo rau củ</Name>
+		<Money>250.000đ</Money>
+		<Sale>200.000đ</Sale>
+		<Group>sale</Group>
+		<FullBlogHTML>
+			Combo rau củ quả gồm dưa leo (1kg), ớt chuông (1kg), ớt sừng (0,5kg), đậu đỗ (1kg), bắp cải(0,5kg) và bí ngòi (0,5kg)
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>002</BlogID>
+		<UrlImage>Image/data_image/sale/combo2.jpg</UrlImage>
+		<Name>Combo đậu</Name>
+		<Money>70.000đ</Money>
+		<Sale>55.000đ</Sale>
+		<Group>sale</Group>
+		<FullBlogHTML>
+			Combo rau củ quả gồm đậu đỗ (1kg), rau bạc hà (0,3kg), rau húng thơm (0,3kg)
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>003</BlogID>
+		<UrlImage>Image/data_image/sale/combo3.jpg</UrlImage>
+		<Name>Combo trái cây</Name>
+		<Money>175.000đ</Money>
+		<Sale>160.000đ</Sale>
+		<Group>sale</Group>
+		<FullBlogHTML>
+			Combo rau củ quả gồm cam (2kg), cà chua (1kg)
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>004</BlogID>
+		<UrlImage>Image/data_image/sale/combo4.jpg</UrlImage>
+		<Name>Combo dâu</Name>
+		<Money>400.000đ</Money>
+		<Sale>359.000đ</Sale>
+		<Group>sale</Group>
+		<FullBlogHTML>
+			Combo rau củ quả gồm dâu tằm (1kg), dâu tây (1kg), mâm xôi (0,5kg), phúc bồn tử (0,5kg)
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>005</BlogID>
+		<UrlImage>Image/data_image/hoaqua/bo.jpg</UrlImage>
+		<Name>Bơ Sáp</Name>
+		<Money>170.000đ</Money>
+		<Sale>115.000đ</Sale>
+		<Group>hoaqua</Group>
+		<FullBlogHTML>
+			Bơ Booth Mỹ hay còn gọi là bơ bút, 
+			bơ mỹ là loại bơ trái mùa được trồng ở nước ta chủ yếu tập trung ở Đắk Lắk.
+			Đây là trái cây sạch được Oragnic nhập về mỗi mùa.
+		</FullBlogHTML>
+	</Post>
+
+	<Post>
+		<BlogID>006</BlogID>
+		<UrlImage>Image/data_image/hoaqua/cam.jpg</UrlImage>
+		<Name>Cam Đường</Name>
+		<Money>300.000đ</Money>
+		<Sale>179.000đ</Sale>
+		<Group>hoaqua</Group>
+		<FullBlogHTML>
+			Cam Navel rất dễ để nhận biết bởi hình dáng to, tròn đều,
+			lớp vỏ mềm mại màu vàng cam rực rỡ.
+			Phần cuống trái đặc trưng có hình dạng như cái rốn.
+			Dưới lớp vỏ hơi dày, dễ lột là những múi cam căng mọng, vàng tươi không hạt.
+			chứa nhiều Vitamin C, tốt cho da, chống lão hóa, giảm Cholesterol, 
+			có tác dụng hồi phục sức khỏe nhanh, 
+			tăng cường chức năng tạo hồng huyết cầu, giảm căng thẳng thần kinh.
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>007</BlogID>
+		<UrlImage>Image/data_image/hoaqua/chanhleo.jpg</UrlImage>
+		<Name>Chanh Dây</Name>
+		<Money>300.000đ</Money>
+		<Sale>159.000đ</Sale>
+		<Group>hoaqua</Group>
+		<FullBlogHTML>
+			Nguồn gốc từ Lâm Đồng, Đắk Lắk
+			Lớp vỏ màu nâu tím hơi sần sùi
+			Nhiều hạt đen và phần thịt nhiều nước màu vàng đậm
+			Vị chua và ngọt nhẹ rất tốt để pha thành nước uống giải khát
+			Sản Phẩm đạt tiêu chuẩn vietgrap
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>008</BlogID>
+		<UrlImage>Image/data_image/hoaqua/dao.jpg</UrlImage>
+		<Name>Đào SaPa</Name>
+		<Money>300.000đ</Money>
+		<Sale>279.000đ</Sale>
+		<Group>hoaqua</Group>
+		<FullBlogHTML>
+			Ruột trắng, vỏ mỏng
+			Hương vị rất thơm, giòn, vị ngọt vừa phải
+			Trồng và nhập khẩu tại Hàn Quốc
+			Khối lượng khoảng 300-350g / trái
+			Sản Phẩm đạt tiêu chuẩn vietgrap
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>009</BlogID>
+		<UrlImage>Image/data_image/hoaqua/dautay.jpg</UrlImage>
+		<Name>Dâu Tây</Name>
+		<Money>300.000đ</Money>
+		<Sale>299.000đ</Sale>
+		<Group>hoaqua</Group>
+		<FullBlogHTML>
+			Dâu tây Mỹ giống dâu tây cực kỳ phổ biến tại Việt Nam hiện nay. 
+			Dâu tây nhập khẩu từ Mỹ chủ yếu được sản xuất bởi công ty DrisColl’s,
+			một trong những nhà sản xuất dâu tây, việt quất và mâm xôi lớn nhất tại Mỹ.
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>010</BlogID>
+		<UrlImage>Image/data_image/hoaqua/duagang.jpg</UrlImage>
+		<Name>Dưa Gang</Name>
+		<Money>300.000đ</Money>
+		<Sale>179.000đ</Sale>
+		<Group>hoaqua</Group>
+		<FullBlogHTML>
+			Loại dưa được trồng, chăm sóc trực tiếp bởi người Nhật
+			Tiêu chuẩn xuất khẩu đi các thị trường EU, Hong Kong và Mỹ
+			Độ ngọt (brix) từ 19
+			Trái tiêu chuẩn 1.26kg/ trái
+			Canh tác 100% theo hướng hữu cơ, an toàn tuyệt đối
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>011</BlogID>
+		<UrlImage>Image/data_image/hoaqua/dudu.jpg</UrlImage>
+		<Name>Đu Đủ</Name>
+		<Money>300.000đ</Money>
+		<Sale>109.000đ</Sale>
+		<Group>hoaqua</Group>
+		<FullBlogHTML>
+			Trong đu đủ chứa lượng beta-carotene rất cao. 
+			Nó giúp chống lại oxy hóa mạnh giúp chống lại một căn bệnh ung thư. 
+			Tuy nhiên, cần cung cấp một lượng vừa phải ăn quá nhiều sẽ không tốt, 
+			gây ra bệnh vàng da. Lượng vitamin A, C cao sẽ giúp cơ thể cung cấp 
+			những chất dinh dưỡng cần thiết. Sản Phẩm đạt tiêu chuẩn vietgrap
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>012</BlogID>
+		<UrlImage>Image/data_image/hoaqua/dua.jpg</UrlImage>
+		<Name>Dừa Nước</Name>
+		<Money>300.000đ</Money>
+		<Sale>49.000đ</Sale>
+		<Group>hoaqua</Group>
+		<FullBlogHTML>
+			Trong nước dừa có gần như toàn bộ dưỡng chất cần cho cơ thể,
+			nhiều vitamin nhóm B và chất khoáng. Hàm lượng kali và magiê 
+			trong nước dừa tương tự như dịch tế bào của người nên nó thường được dùng 
+			cho bệnh nhân bị tiêu chảy, 
+			thậm chí làm dịch truyền. Sản Phẩm đạt tiêu chuẩn vietgrap
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>013</BlogID>
+		<UrlImage>Image/data_image/hoaqua/kiwi.jpg</UrlImage>
+		<Name>Kiwi Vàng</Name>
+		<Money>300.000đ</Money>
+		<Sale>279.000đ</Sale>
+		<Group>hoaqua</Group>
+		<FullBlogHTML>
+			Quả Kiwi vàng New Zealand có đài ở đầu quả và quả thuôn dài, 
+			vỏ màu nâu đỏ, ít lông hơn kiwi xanh. Kiwi vàng có thịt quả màu vàng rất đẹp mắt,
+			hương vị ngon ngọt, chua dịu hoàn hảo
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>014</BlogID>
+		<UrlImage>Image/data_image/hoaqua/luu.jpg</UrlImage>
+		<Name>Lựu Đỏ</Name>
+		<Money>300.000đ</Money>
+		<Sale>199.000đ</Sale>
+		<Group>hoaqua</Group>
+		<FullBlogHTML>
+			Bổ sung vitamin A, C, E và acid folic giúp mắt sang khỏe, bổ máu
+			Giảm nguy cơ mắc bệnh Alzheimer ở người cao tuổi
+			Cải thiên, giúp da căng mịn, hồng hào trẻ hóa làn da
+			Đặc biệt rất tốt cho phụ nữ mang thai, giảm nguy cơ sinh non và thiếu cân ở trẻ
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>015</BlogID>
+		<UrlImage>Image/data_image/hoaqua/tao.jpg</UrlImage>
+		<Name>Táo Đá</Name>
+		<Money>300.000đ</Money>
+		<Sale>179.000đ</Sale>
+		<Group>hoaqua</Group>
+		<FullBlogHTML>
+			táo Rosalynn chứa nhiều chất pectin - một chất xơ hòa tan. 
+			Làm giảm cholesterol và chất chống oxy hóa, ngăn ngừa bệnh tim.
+			Lượng magiê và kali trong táo giúp điều chỉnh áp suất máu và giữ cho 
+			nhịp đập tim ở mức ổn định. 
+			Nó là chất chống ôxy hoá tự nhiên giúp bảo vệ thành mạch máu.
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>016</BlogID>
+		<UrlImage>Image/data_image/hoaqua/thanhlong.jpg</UrlImage>
+		<Name>Thanh Long</Name>
+		<Money>300.000đ</Money>
+		<Sale>119.000đ</Sale>
+		<Group>hoaqua</Group>
+		<FullBlogHTML>
+			Thanh long ruột đỏ hay còn gọi là thanh long ruột hồng,
+			có đặc điểm như tên gọi của chúng là chúng có ruột màu đỏ hồng trông 
+			rất bắt mắt, là loại cây ưa sáng 
+			và ưa cạn nên thường được trồng ở nơi thông thoáng, đón nhiều ánh nắng. 
+			Sản Phẩm đạt tiêu chuẩn vietgrap
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>017</BlogID>
+		<UrlImage>Image/data_image/hoaqua/xoai.jpg</UrlImage>
+		<Name>Xoài</Name>
+		<Money>300.000đ</Money>
+		<Sale>89.000đ</Sale>
+		<Group>hoaqua</Group>
+		<FullBlogHTML>
+			Với quy trình trồng hoàn toàn tự nhiên, đảm bảo chất lượng, 
+			quả chín có vị ngọt thanh, thịt dày,
+			xoài Cát Chu rất được ưa chuộng tại Nhật Bản. Sản Phẩm đạt tiêu chuẩn vietgrap
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>018</BlogID>
+		<UrlImage>Image/data_image/raucu/bapcai.jpg</UrlImage>
+		<Name>Bắp Cải</Name>
+		<Money>300.000đ</Money>
+		<Sale>69.000đ</Sale>
+		<Group>raucu</Group>
+		<FullBlogHTML>
+			Cải Bruxen là một loại cải trồng để ăn mầm, 
+			xuất hiện từ lâu ở Brussels, Bỉ. Những mầm cây trông chẳng khác
+			gì những bắp cải tí hon với vị giòn giòn, 
+			mát mát được ưa chuộng ở nhiều nơi trên thế giới.
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>019</BlogID>
+		<UrlImage>Image/data_image/raucu/cachua.jpg</UrlImage>
+		<Name>Cà Chua</Name>
+		<Money>300.000đ</Money>
+		<Sale>59.000đ</Sale>
+		<Group>raucu</Group>
+		<FullBlogHTML>
+			Cà chua bi giúp cung cấp dinh dưỡng cho cơ thể và chúng
+			còn được sử dụng để làm đẹp da. Giúp xóa các vết nám, tàn nhan đen trên mặt. 
+			Giúp chống lão hoá và phòng chống ung thư. Sản Phẩm đạt tiêu chuẩn vietgrap
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>020</BlogID>
+		<UrlImage>Image/data_image/raucu/cai.jpg</UrlImage>
+		<Name>Cải Thìa</Name>
+		<Money>300.000đ</Money>
+		<Sale>35.500đ</Sale>
+		<Group>raucu</Group>
+		<FullBlogHTML>
+			Cải thìa không chỉ là loại rau quen thuộc để chế biến nên những món 
+			ăn ngon mà còn chứa nhiều thành phần dinh dưỡng có lợi cho sức khỏe.
+			Các loại rau xanh thuộc họ cải như cải thìa là nguồn thực phẩm 
+			tuyệt vời, có khả năng cao phòng ngừa bệnh ung thư. Bạn càng sử dụng nhiều cải thìa trong 
+			chế độ ăn hàng ngày của mình thì nguy cơ mắc bệnh ung thư càng thấp.
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>021</BlogID>
+		<UrlImage>Image/data_image/raucu/carot.jpg</UrlImage>
+		<Name>Cà Rốt</Name>
+		<Money>300.000đ</Money>
+		<Sale>19.000đ</Sale>
+		<Group>raucu</Group>
+		<FullBlogHTML>
+			Cà rốt là một loại rau quả sạch rất gần gũi với người dân Việt Nam. 
+			Cà rốt có rất nhiều cách chế biến khác nhau như: nấu chín, hầm cùng xương, làm sinh tố,
+			làm nước ép trái cây hoặc đơn giản nhất là ăn sống. Sản Phẩm đạt tiêu chuẩn vietgrap
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>022</BlogID>
+		<UrlImage>Image/data_image/raucu/dau.jpg</UrlImage>
+		<Name>Đậu Hà Lan</Name>
+		<Money>300.000đ</Money>
+		<Sale>229.000đ</Sale>
+		<Group>raucu</Group>
+		<FullBlogHTML>
+			Đậu Hà Lan là một loại đậu vừa thơm ngon, ngọt bùi mà lại 
+			vừa tốt cho sức khỏe. Sản phẩm đậu Hà Lan xanh nguyên hạt đến từ thương hiệu
+			oragnic an toàn và vệ sinh thực phẩm cho người tiêu dùng.
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>023</BlogID>
+		<UrlImage>Image/data_image/raucu/ngo.jpg</UrlImage>
+		<Name>Ngô Ngọt</Name>
+		<Money>300.000đ</Money>
+		<Sale>99.000đ</Sale>
+		<Group>raucu</Group>
+		<FullBlogHTML>
+			ngô có hàm lượng đường rất cao, nhưng ăn lại có vị thanh nhẹ,
+			không bị ngọt ngấy. Sản Phẩm đạt tiêu chuẩn vietgrap
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>024</BlogID>
+		<UrlImage>Image/data_image/hoaqua/nho.jpg</UrlImage>
+		<Name>Nho Xanh</Name>
+		<Money>300.000đ</Money>
+		<Sale>269.000đ</Sale>
+		<Group>hoaqua</Group>
+		<FullBlogHTML>
+			Nho chứa nhiều đường trái cây, chất xơ, vitamin C, A và B rất tốt cho sức khoẻ.
+			Ngừa nguy cơ xơ cứng động mạch, giảm các triệu chứng viêm nhiễm, giảm huyết áp.
+			Phòng chống các bệnh về tuổi già và ngăn ngừa ung thư.
+			Loại trái cây này còn giúp tăng cường hệ miễn dịch, giảm nguy cơ mắc bệnh đường hô hấp.
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>025</BlogID>
+		<UrlImage>Image/data_image/raucu/ot.jpg</UrlImage>
+		<Name>Ớt</Name>
+		<Money>300.000đ</Money>
+		<Sale>29.000đ</Sale>
+		<Group>raucu</Group>
+		<FullBlogHTML>
+			Ớt mang một vị cay đặc trưng, cùng với hành, tỏi,
+			và các loại rau nêm khác trở thành nguyên liệu không thể thiếu trong mỗi món ăn, 
+			giúp các món ăn cay nồng, dậy mùi thêm phần hấp dẫn. Sản Phẩm đạt tiêu chuẩn vietgrap
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>026</BlogID>
+		<UrlImage>Image/data_image/raucu/rausalach.jpg</UrlImage>
+		<Name>Rau Sà Lách</Name>
+		<Money>300.000đ</Money>
+		<Sale>49.000đ</Sale>
+		<Group>raucu</Group>
+		<FullBlogHTML>
+			Xà lách búp mỡ chứa hàm lượng chất xơ cao cùng các
+			khoáng chất và vitamin cần thiết cho cơ thể. Vì thế, xà lách không
+			chỉ giúp kích thích vị giác, tăng mùi vị món ăn mà còn giúp hỗ trợ hệ tiêu hóa,
+			giảm nguy cơ mắc bệnh tim mạch, ngăn ngừa ung thư, nhồi máu cơ tim,...
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>027</BlogID>
+		<UrlImage>Image/data_image/raucu/suplo.jpg</UrlImage>
+		<Name>Súp Lơ</Name>
+		<Money>300.000đ</Money>
+		<Sale>45.000đ</Sale>
+		<Group>raucu</Group>
+		<FullBlogHTML>
+			Súp Lơ có giá trị dinh dưỡng cao, chứa nhiều Nước, Protit, Gluxit,
+			Xenluloza, Tro và nhiều Muối khoáng như Canxi, Photphos, Sắt, 
+			cùng một số Vitamin có lợi cho sức khỏe như Vitamin C, Vitamin B1, Vitamin B2, Caroten,
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>028</BlogID>
+		<UrlImage>Image/data_image/sanpham/sp1.jpg</UrlImage>
+		<Name>Kem Lựu</Name>
+		<Money>300.000đ</Money>
+		<Sale>179.000đ</Sale>
+		<Group>sanpham</Group>
+		<FullBlogHTML>
+			Sản Phẩm của phòng lap oragnic, chiết suất từ thiên nhiên. an toàn lành tính không gây kích ứng.
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>029</BlogID>
+		<UrlImage>Image/data_image/sanpham/sp2.jpg</UrlImage>
+		<Name>Tinh Dầu oliu</Name>
+		<Money>300.000đ</Money>
+		<Sale>89.000đ</Sale>
+		<Group>sanpham</Group>
+		<FullBlogHTML>
+			Sản Phẩm của phòng lap oragnic, chiết suất từ thiên nhiên. an toàn lành tính không gây kích ứng.
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>030</BlogID>
+		<UrlImage>Image/data_image/sanpham/sp3.jpg</UrlImage>
+		<Name>Kem oliu</Name>
+		<Money>300.000đ</Money>
+		<Sale>175.000đ</Sale>
+		<Group>sanpham</Group>
+		<FullBlogHTML>
+			Sản Phẩm của phòng lap oragnic, chiết suất từ thiên nhiên. an toàn lành tính không gây kích ứng.
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>031</BlogID>
+		<UrlImage>Image/data_image/sanpham/sp4.jpg</UrlImage>
+		<Name>Serum oliu</Name>
+		<Money>300.000đ</Money>
+		<Sale>289.000đ</Sale>
+		<Group>sanpham</Group>
+		<FullBlogHTML>
+			Sản Phẩm đạt tiêu chuẩn vietgrap
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>032</BlogID>
+		<UrlImage>Image/data_image/sanpham/sp5.jpg</UrlImage>
+		<Name>Kem Dừa</Name>
+		<Money>300.000đ</Money>
+		<Sale>109.000đ</Sale>
+		<Group>sanpham</Group>
+		<FullBlogHTML>
+			Sản Phẩm đạt tiêu chuẩn vietgrap
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>033</BlogID>
+		<UrlImage>Image/data_image/sanpham/sp6.jpg</UrlImage>
+		<Name>Xịt Khoáng</Name>
+		<Money>300.000đ</Money>
+		<Sale>174.000đ</Sale>
+		<Group>sanpham</Group>
+		<FullBlogHTML>
+			Sản Phẩm đạt tiêu chuẩn vietgrap
+		</FullBlogHTML>
+	</Post>
+	<Post>
+		<BlogID>034</BlogID>
+		<UrlImage>Image/data_image/sanpham/sp7.jpg</UrlImage>
+		<Name>Serum dừa</Name>
+		<Money>300.000đ</Money>
+		<Sale>255.000đ</Sale>
+		<Group>sanpham</Group>
+		<FullBlogHTML>
+			Sản Phẩm đạt tiêu chuẩn vietgrap
+		</FullBlogHTML>
+	</Post>
+
+
+
+
+
+
+</ArrayOfPost>

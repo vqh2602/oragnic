@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<ArrayOfBuy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Buy>
+    <Masp>009</Masp>
+    <Email>test1@gmail.com</Email>
+    <Sl>2</Sl>
+    <Tensp>Dâu Tây</Tensp>
+    <Imgsp>Image/data_image/hoaqua/dautay.jpg</Imgsp>
+    <Gia>299.000đ</Gia>
+    <Id>308164314</Id>
+  </Buy>
+  <Buy>
+    <Masp>020</Masp>
+    <Email>test1@gmail.com</Email>
+    <Sl>2</Sl>
+    <Tensp>Cải Thìa</Tensp>
+    <Imgsp>Image/data_image/raucu/cai.jpg</Imgsp>
+    <Gia>35.500đ</Gia>
+    <Id>819430542</Id>
+  </Buy>
+  <Buy>
+    <Masp>019</Masp>
+    <Email>test1@gmail.com</Email>
+    <Sl>1</Sl>
+    <Tensp>Cà Chua</Tensp>
+    <Imgsp>Image/data_image/raucu/cachua.jpg</Imgsp>
+    <Gia>59.000đ</Gia>
+    <Id>864336324</Id>
+  </Buy>
+  <Buy>
+    <Masp>032</Masp>
+    <Email>test1@gmail.com</Email>
+    <Sl>10</Sl>
+    <Tensp>Kem Dừa</Tensp>
+    <Imgsp>Image/data_image/sanpham/sp5.jpg</Imgsp>
+    <Gia>109.000đ</Gia>
+    <Id>882020427</Id>
+  </Buy>
+  <Buy>
+    <Masp>007</Masp>
+    <Email>vqh2602@gmail.com</Email>
+    <Sl>2</Sl>
+    <Tensp>Chanh Dây</Tensp>
+    <Imgsp>Image/data_image/hoaqua/chanhleo.jpg</Imgsp>
+    <Gia>159.000đ</Gia>
+    <Id>687996011</Id>
+  </Buy>
+</ArrayOfBuy>

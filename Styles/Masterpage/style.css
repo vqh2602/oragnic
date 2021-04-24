@@ -1,0 +1,208 @@
+/*==Reset CSS==*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*==Style cơ bản cho website==*/
+body {
+    font-family: 'Josefin Sans';
+}
+
+#head_main {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+}
+
+#head_logo {
+    width: 20%;
+    text-align: center;
+}
+
+#head_menu {
+    width: 60%;
+}
+
+#head_buy {
+    width: 20%;
+}
+/*==Style cho menu===*/
+#menu ul {
+    background: none;
+    list-style-type: none;
+    text-align: center;
+}
+
+#menu li {
+    color: #333333;
+    display: inline-block;
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: -5px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #333;
+    display: block;
+    text-transform: uppercase;
+}
+
+    #menu a:hover {
+        color: #98bd68;
+        box-shadow: 0 3px #98bd68;
+    }
+
+
+
+/*==Dropdown Menu==*/
+.sub-menu li {
+    display: none;
+}
+
+#menu li {
+    position: relative;
+    padding: 30px 0 0 0;
+}
+
+.sub-menu {
+    display: none;
+    position: absolute;
+}
+
+#menu li:hover .sub-menu {
+    display: block;
+    z-index: 10;
+}
+
+.sub-menu li {
+    margin-left: 0 !important;
+}
+
+#head_buy_con {
+    padding: 30px 0 0 0;
+}
+
+    #head_buy_con span {
+        font-size: 20pt;
+        margin: 0 15px;
+    }
+        /* menulogin */
+        #head_buy_con span:hover {
+            color: #98bd68;
+            transition: 0.2s;
+        }
+#head_buy_con a {
+    color:black;
+    text-decoration:none;
+}
+#head_buy_con a:visited {
+    color: black;
+    text-decoration: none;
+}
+    #head_buy_con a:hover {
+        color: #98bd68;
+        transition: 0.2s;
+    }
+
+#user {
+    display: inline-flex;
+}
+    #user a {
+        margin-right: 30px;
+        text-decoration:none;
+        color:black;
+    }
+    #user a:visited {
+        color: black;
+    }
+
+    #user button {
+        font-size: 20pt;
+        background: none;
+        border: none;
+    }
+
+/* FROOTER */
+#footer {
+    background-image: url('../../Image/footer.jpg');
+    background-repeat: no-repeat;
+    margin-top: 50px;
+}
+
+#footer_container {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    padding: 80px 50px;
+}
+
+.footer_container_min {
+    width: 25%;
+    padding: 10px;
+    color: gray;
+    font-size: 15pt;
+}
+
+#diachi_footer {
+    margin-top: 10px;
+    list-style-type: none;
+}
+
+.footer_container_min i {
+    color: gray;
+    margin-right: 10px;
+}
+
+.footer_container_min li {
+    margin-bottom: 15px;
+}
+
+.footer_container_min a {
+    text-decoration: none;
+    color: gray;
+}
+
+.footer_container_min li:hover a {
+    text-decoration: none;
+    color: #98bd68;
+}
+
+.footer_container_min a:visited {
+    color: gray;
+}
+
+.footer_container_min ul {
+    margin-top: 30px;
+}
+
+#instagram {
+    margin-top: 30px;
+}
+
+    #instagram img {
+        width: 76px;
+    }
+
+#coppyright {
+    background: rgba(0,0,0,.5);
+    text-align: center;
+    height: 50px;
+    /* margin: 0 auto; */
+    align-items: center;
+    display: flex;
+}
+
+    #coppyright p {
+        margin: 0 auto;
+        color: gainsboro;
+    }
+
+#ins_vqh {
+    color: gainsboro;
+}
+#ins_vqh:visited {
+    color: gainsboro;
+}

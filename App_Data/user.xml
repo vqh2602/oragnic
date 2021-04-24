@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Name>Vương Quang Huy</Name>
+    <Password>vqh2602</Password>
+    <Email>vqh2602@gmail.com</Email>
+    <Phone>0965674033</Phone>
+    <Add>ngách 141/256 giáp nhị, hoàng mai, hà nội</Add>
+  </User>
+  <User>
+    <Name>Vương Quang Huy</Name>
+    <Password>vqh2602</Password>
+    <Email>vqh@gmail.com</Email>
+    <Phone>0965674035</Phone>
+    <Add>ngõ 12d thịnh liệt, hoàng mai, hà nội</Add>
+  </User>
+  <User>
+    <Name>Vương Quang Huy</Name>
+    <Password>vqh2602</Password>
+    <Email>huykoj0@gmail.com</Email>
+    <Phone>0965674037</Phone>
+    <Add>ngách 77d giáp nhị, hoàng mai, hà nội</Add>
+  </User>
+  <User>
+    <Name>Nguyễn Việt Anh</Name>
+    <Password>1234567</Password>
+    <Email>test1@gmail.com</Email>
+    <Phone>9873676347</Phone>
+    <Add>Ngõ 81 Bình Hạnh, thanh xuân , hà nội</Add>
+  </User>
+</ArrayOfUser>

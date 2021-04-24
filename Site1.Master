@@ -1,0 +1,197 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="oragnic.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Organic Market</title>
+    <link rel="stylesheet" href="./fontawesome6/css/all.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;700&display=swap" rel="stylesheet">
+    <link href="Styles/Masterpage/style.css" rel="stylesheet" type="text/css" />
+    <link rel="icon" href="Styles/Masterpage/Image/favicon.ico" type="image/x-icon" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>  
+</head>
+<body>
+    <form id="form1" runat="server" onsubmit="return name_kiemtra()" >
+           <!-- head - thanh menu-->
+    <div id='head_main'>
+        <div id='head_logo'>
+            <a href="Home.aspx">
+                <img src="./Styles/Masterpage/Image/logo1.png" alt="logo" />
+            </a>
+            
+        </div>
+        <div id='head_menu'>
+            <div id='menu'>
+                <ul>
+                    <li><a id='home' href="Home.aspx">HOME</a></li>
+                    <li><a id='shop' href="#">Shop</a> 
+                        <ul class="sub-menu">
+                            <li style="padding: 0"><a href="Tatcasanpham.aspx?id=hoaqua">Trái Cây</a></li>
+                            <li style="padding: 0"><a href="Tatcasanpham.aspx?id=raucu">Rau Củ</a></li>
+                            <li style="padding: 0"><a href="Tatcasanpham.aspx?id=sanpham">Sản Phẩm</a></li>
+                        </ul>
+                    </li>
+                    <li><a id='blog' href="Blog.aspx">Blog</a></li>
+                    <li><a id='about' href="About.aspx">About</a></li>
+                    <li><a id='contact' href="Ins.aspx">Photo</a></li>
+                </ul>
+            </div>
+        </div>
+        <div id='head_buy'>
+            <div id='head_buy_con'>
+            <span id="giohangmain"><a href="Giohang.aspx"><i class="fa-regular fa-basket-shopping"></i></a></span>
+            <span id="search"><a href="Search.aspx"><i class="fa-regular fa-magnifying-glass"></i></a></span>
+            <span id='user' runat="server" ClientIDMode="Static"></span>
+
+            </div>
+            
+        </div>
+    </div>
+
+        <!-- khu vực hiể thị nội dung -->
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+
+    <!-- footer style -->
+    <%--<style>
+        /* FROOTER */
+#footer {
+    background-image: url('../../Image/footer.jpg');
+    background-repeat: no-repeat;
+    margin-top: 50px;
+}
+
+#footer_container {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    padding: 80px 50px;
+}
+
+.footer_container_min {
+    width: 25%;
+    padding: 10px;
+    color: gray;
+    font-size: 15pt;
+}
+
+#diachi_footer {
+    margin-top: 10px;
+    list-style-type: none;
+}
+
+.footer_container_min i {
+    color: gray;
+    margin-right: 10px;
+}
+
+.footer_container_min li {
+    margin-bottom: 15px;
+}
+
+.footer_container_min a {
+    text-decoration: none;
+}
+
+.footer_container_min li:hover a {
+    text-decoration: none;
+    color: #98bd68;
+}
+
+.footer_container_min a:visited {
+    color: gray;
+}
+
+.footer_container_min ul {
+    margin-top: 30px;
+}
+
+#instagram {
+    margin-top: 30px;
+}
+
+    #instagram img {
+        width: 76px;
+    }
+
+#coppyright {
+    background: rgba(0,0,0,.5);
+    text-align: center;
+    height: 50px;
+    /* margin: 0 auto; */
+    align-items: center;
+    display: flex;
+}
+
+    #coppyright p {
+        margin: 0 auto;
+        color: gainsboro;
+    }
+
+    </style>--%>
+        <footer runat="server">
+         <!-- footer-->
+        <div id="footer">
+        <div id="footer_container">
+            <div class="footer_container_min">
+                  <a href="Home.aspx">
+              <img src="Styles/Masterpage/Image/logo1.png" alt="" style="margin-top: -40px;"/>
+            </a>
+                
+                <ul id='diachi_footer'>
+                    <li><i class="fa-duotone fa-home-blank"></i> 102 Hoàng Đạo Thành, Kim Giang, Thanh Xuân, Hà Nội</li>
+                    <li><i class="fa-duotone fa-circle-phone"></i>(+84).0965.674.033</li>
+                    <li><i class="fa-duotone fa-envelope"></i>Vqh2602@gmail.com</li>
+                </ul>
+            </div>
+            <div class="footer_container_min">
+                <h3>INFORMATION</h3>
+                <ul>
+                    <li><a href="About.aspx">About us</a></li>
+                    <li><a href="Ins.aspx">Photo Instagram</a></li>
+                    <li><a href="Blog.aspx">Terms & Conditions</a></li>
+                </ul>
+            </div>
+            <div class="footer_container_min">
+                <h3>MY ACCOUNT</h3>
+                <ul>
+                    <li><a href="Thongtinkhachhang.aspx">My Account</a></li>
+                    <li><a href="Giohang.aspx">My Cart</a></li>
+                    <li><a href="Login.aspx">Login/Signup</a></li>
+                </ul>
+            </div>
+            <div class="footer_container_min">
+                <h3>INSTAGRAM</h3>
+                <div id="instagram">
+                    <img src="Image/data_image/hoaqua/cam.jpg" alt=""/>
+                    <img src="Image/data_image/hoaqua/nho.jpg" alt=""/>
+                    <img src="Image/data_image/hoaqua/thanhlong.jpg" alt=""/>
+                    <img src="Image/data_image/raucu/ngo.jpg" alt=""/>
+                    <img src="Image/data_image/raucu/rausalach.jpg" alt=""/>
+                    <img src="Image/data_image/raucu/ot.jpg" alt=""/>
+                    <img src="Image/data_image/sanpham/sp1.jpg" alt=""/>
+                    <img src="Image/data_image/sanpham/sp4.jpg" alt=""/>
+                    <img src="Image/data_image/sanpham/sp7.jpg" alt=""/>
+                </div>
+            </div>
+        </div>
+        <div id='coppyright'>
+            <p><i class="fa-duotone fa-circle-c" style="color:white"></i>Bản quyền thuộc về Organic | Phát triển bởi <a id="ins_vqh" href="https://www.instagram.com/vqh.2602/">Vương Quang Huy</a> - 19A02</p>
+        </div>
+    </div>
+    </footer>
+
+    
+   <script src="jquery/jquery-3.6.0.min.js"></script>
+   </form>
+</body>
+</html>
